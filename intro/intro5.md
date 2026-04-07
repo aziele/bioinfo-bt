@@ -1,4 +1,4 @@
-# Porównanie par sekwencji: programowanie dynamiczne i dot-plot
+# Porównanie dwóch sekwencji: alignment i dot-plot
 
 Porównywanie dwóch sekwencji biologicznych (DNA, RNA lub białek) jest jednym z podstawowych zadań bioinformatyki. Pozwala wykrywać podobieństwa i różnice między sekwencjami, co z kolei umożliwia przewidywanie ich funkcji oraz identyfikowanie mutacji i kluczowych regionów sekwencji o znaczeniu funkcjonalnym lub strukturalnym.
 

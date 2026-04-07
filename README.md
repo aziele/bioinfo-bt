@@ -10,7 +10,7 @@ Biotechnologia, I rok
 
 | Lab | Data | Temat | Wprowadzenie | Zadania |
 | :---: | --- | --- | --- | :---: |
-| **5** | 09.04.2026 | Porównanie par sekwencji: programowanie dynamiczne i dot-plot | [intro5](./intro/intro5.md) | [lab5](./labs/lab5.md) |
+| **5** | 09.04.2026 | Porównanie dwóch sekwencji: alignment i dot-plot | [intro5](./intro/intro5.md) | [lab5](./labs/lab5.md) |
 | **6** | 16.04.2026 | Dopasowanie wielu sekwencji i filogenetyka | - | - |
 | **7** | 23.04.2026 | Wprowadzenie do analizy danych NGS | - | - |
 

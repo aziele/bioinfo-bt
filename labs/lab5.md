@@ -1,5 +1,3 @@
-# Porównanie par sekwencji: programowanie dynamiczne i dot-plot
-
 ## Zadanie 1 - Cechy przyrównania
 Poniżej znajduje się przyrównanie dwóch krótkich sekwencji DNA.
 
