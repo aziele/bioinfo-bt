@@ -150,7 +150,7 @@ Odpowiedz:
 1. Jak ustawienia okna i progu wpływają na wizualizację?
 2. Czy zidentyfikowałeś powtarzające się motywy?
 
-## Zad. 6 - Program DotMatcher
+## Zadanie 6 - Program DotMatcher
 W pliku [dotplot.fasta](../data/dotplot.fasta) znajdują się sekwencje nukleotydowe. Przy wykorzystaniu programu [Dotmatcher](https://www.bioinformatics.nl/cgi-bin/emboss/dotmatcher) z pakietu EMBOSS wykonaj analizę dotplot, ustawiając długość słowa na `15` i wartość graniczną na `50`.
 
 Przeanalizuj następujące pary sekwencji i krótko opisz wynik każdego wykresu:
