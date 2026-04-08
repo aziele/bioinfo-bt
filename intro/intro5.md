@@ -38,7 +38,7 @@ Dot-plot jest szczególnie przydatna do wykrywania:
 
 ## 3. Kluczowa różnica
 
-- **Przyrównanie (alignment)** daje dokładny wynik znak po znaku sekwencji oraz jego liczbową punktację.
-- **Dot-plot** daje szybki, wizualny obraz podobieństw i zmian strukturalnych.
+- **Przyrównanie sekwencji** daje dokładny wynik znak po znaku sekwencji oraz jego liczbową punktację.
+- **Analiza Dot-plot** daje szybki, wizualny obraz podobieństw i zmian strukturalnych.
 
 Obie metody się uzupełniają i są szeroko stosowane w analizie sekwencji biologicznych.

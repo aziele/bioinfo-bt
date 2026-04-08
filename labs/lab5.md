@@ -141,6 +141,7 @@ Odpowiedz:
 1. Dlaczego procent identyczności jest zazwyczaj niższy w przyrównaniu globalnym (Needle) niż w przyrównaniu lokalnym (Water)?
 2. Co oznaczają symbole `|`, `:`, `.` w wynikach przyrównania?
 3. Czym różni się procent identyczności od podobieństwa (*similarity*) w kontekści przyrównania sekwencji białkowych?
+4. Czy widzisz fragmenty sekwencji, które mogą być istotne dla funkcji białka? Uzasadnij swoją odpowiedź.
 
 
 ## Zadanie 5 - Analiza dot-plot
