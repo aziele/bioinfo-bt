@@ -37,7 +37,7 @@ Odpowiedz:
 
 ## Zadanie 3 – Przyrównanie sekwencji DNA
 
-Poniżej znajdują się dwie sekwencje tego samego genu pochodzące od dwóch osób. Pierwsza sekwencja należy do pacjenta chorego na pewien zespół genetyczny, druga do osoby zdrowej. Skorzystaj z narzędzia [EMBOSS Needle](https://www.ebi.ac.uk/Tools/psa/emboss_needle/nucleotide.html), aby utworzyć przyrównanie obu sekwencji przy użyciu algorytmu Needlemana-Wunscha.
+Poniżej znajdują się dwie sekwencje tego samego genu pochodzące od dwóch osób. Pierwsza sekwencja należy do pacjenta chorego na pewien zespół genetyczny, druga do osoby zdrowej. Skorzystaj z narzędzia [EMBOSS Needle](https://www.ebi.ac.uk/jdispatcher/psa/emboss_needle), aby utworzyć przyrównanie obu sekwencji przy użyciu algorytmu Needlemana-Wunscha.
 
 ```
 >sick
@@ -144,14 +144,14 @@ Odpowiedz:
 
 
 ## Zadanie 5 - Analiza dot-plot
-Korzystając z aplikacji [Dotplot](http://combio.pl/tools/dotplot/) porównaj sekwencję `ATCGATAATCGAC` ze sobą. Następnie utwórz ponownie wykres, zwiększając rozmiar okna do `4` i próg do `3`.
+Korzystając z aplikacji [Dotplot](http://combio.pl/tools/dotplot/) porównaj sekwencję `ATCGATAATCGAC` ze sobą. Następnie utwórz ponownie wykres, zwiększając wielkość okna do `4` i wartość graniczną do `3`.
 
 Odpowiedz:
 1. Jak ustawienia okna i progu wpływają na wizualizację?
 2. Czy zidentyfikowałeś powtarzające się motywy?
 
 ## Zadanie 6 - Program DotMatcher
-W pliku [dotplot.fasta](../data/dotplot.fasta) znajdują się sekwencje nukleotydowe. Przy wykorzystaniu programu [Dotmatcher](https://www.bioinformatics.nl/cgi-bin/emboss/dotmatcher) z pakietu EMBOSS wykonaj analizę dotplot, ustawiając długość słowa na `15` i wartość graniczną na `50`.
+W pliku [dotplot.fasta](../data/dotplot.fasta) znajdują się sekwencje nukleotydowe. Przy wykorzystaniu programu [Dotmatcher](https://www.bioinformatics.nl/cgi-bin/emboss/dotmatcher) z pakietu EMBOSS wykonaj analizę dotplot, ustawiając wielkość okna na `15` i wartość graniczną na `50`.
 
 Przeanalizuj następujące pary sekwencji i krótko opisz wynik każdego wykresu:
 
