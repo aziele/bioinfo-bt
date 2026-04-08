@@ -23,7 +23,7 @@ Odpowiedz na pytania:
 
 ## Zadanie 2 – Algorytm Needlemana–Wunscha
 
-Korzystając z aplikacji [NW](http://combio.pl/tools/nw/) przyrównaj sekwencje: `ATACT` i `GATTACC`, stosując następujący schemat punktowania:
+Korzystając z aplikacji [NW](http://combio.pl/tools/nw/) przyrównaj sekwencje: `ATAC` i `GATTAC`, stosując następujący schemat punktowania:
 
 - *match*: `+1`
 - *mismatch*: `–1`
