@@ -1,5 +1,5 @@
 ## Zadanie 1 - Cechy przyrównania
-Poniżej znajduje się przyrównanie dwóch krótkich sekwencji DNA.
+Poniżej znajduje się przyrównanie dwóch krótkich sekwencji DNA: `GATACTACA` i `GATTTCAG`.
 
 ```
 dna1   GA-TACTACA
