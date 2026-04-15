@@ -6,7 +6,7 @@ Odpowiedz:
 1. Co oznaczają znaki `*`, `:` i `.` w przyrównaniu?
 2. Wypisz aminokwasy, które są całkowicie zachowane u wszystkich organizmów.
 
-W nukleotydowej bazie NCBI istnieją dwa białka drożdży o numerach dostępu: `NP_588162` i `NP_011428`, które należą do tej samej rodziny białkowej, ale **nie posiadają** aktywności katalitycznej. Otwórz program `ClustalOmega` w nowej karcie przeglądarki i wykonaj przyrównanie sekwencji z pliku `ube.fasta` dodając do niego dwie sekwencje z drożdży.
+W białkowej bazie NCBI istnieją dwa białka drożdży o numerach dostępu: `NP_588162` i `NP_011428`, które należą do tej samej rodziny białkowej, ale **nie posiadają** aktywności katalitycznej. Otwórz program `ClustalOmega` w nowej karcie przeglądarki i wykonaj przyrównanie sekwencji z pliku `ube.fasta` dodając do niego dwie sekwencje z drożdży.
 
 3. Porównaj wyniki obu przyrównań i zidentyfikuj aminokwas kluczowy dla aktywności enzymu. Uzasadnij swoją odpowiedź.
 4. Zapisz wynik przyrównania do pliku (*Download*).
