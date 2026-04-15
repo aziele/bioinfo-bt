@@ -1,5 +1,5 @@
 ## Zadanie 1 - Dopasowanie wielu sekwencji
-W pliku [ube.fasta](data/ube.fasta) znajdują się sekwencje białkowe **aktywnego** enzymu koniugującego ubikwitynę pochodzące z wielu organizmów. Korzystając z programu [Clustal Omega](https://www.ebi.ac.uk/jdispatcher/msa/clustalo) na serwerze EBI wykonaj ich przyrównanie.
+W pliku [ube.fasta](../data/ube.fasta) znajdują się sekwencje białkowe **aktywnego** enzymu koniugującego ubikwitynę pochodzące z wielu organizmów. Korzystając z programu [Clustal Omega](https://www.ebi.ac.uk/jdispatcher/msa/clustalo) na serwerze EBI wykonaj ich przyrównanie.
 
 Odpowiedz:
 
@@ -59,7 +59,7 @@ Które drzewo najodpowiedniej opisuje relację między powyższymi gatunkami.
 
 Wirusy spokrewnione z HIV znalezione zostały również poza człowiekiem u wielu gatunków naczelnych i zostały nazwane **SIV**. Występujące w cząsteczce wirusa białko **gp120** jest odpowiedzialne za łączenie się wirusa z komórkami gospodarza.
 
-W pliku [gp120.fasta](./data/gp120.fasta) znajduje się przyrównanie sekwencji białka gp120 pochodzące z różnych gatunków naczelnych. Za pomocą narzędzia [simple phylogeny MAB-LIRMM](http://phylogeny.lirmm.fr/phylo_cgi/simple_phylogeny.cgi) utwórz drzewo filogenetyczne. Ukorzeń drzewo korzystając z punktu centralnego (*mid-point rooting*).
+W pliku [gp120.fasta](../data/gp120.fasta) znajduje się przyrównanie sekwencji białka gp120 pochodzące z różnych gatunków naczelnych. Za pomocą narzędzia [simple phylogeny MAB-LIRMM](http://phylogeny.lirmm.fr/phylo_cgi/simple_phylogeny.cgi) utwórz drzewo filogenetyczne. Ukorzeń drzewo korzystając z punktu centralnego (*mid-point rooting*).
 
 Odpowiedz:
 1. Czy wirusy HIV-1 i HIV-2 stanowią jedną grupę, czy raczej stanowią dwie odrębne grupy?
@@ -70,7 +70,7 @@ Odpowiedz:
 
 W latach 90. u 8 pacjentów dentysty z Florydy zdiagnozowano zakażenie wirusem HIV. W związku z tym, że dentysta był chory na AIDS oraz przeprowadzał inwazyjne procedury dentystyczne, amerykańska agencja epidemiologiczna przeprowadziła śledztwo. Nie wykazało ono istotnych uchybień podczas wykonywanych zabiegów w zakresie bezpieczeństwa i higieny.
 
-W celu ustalenia źródła zakażenia wirusem HIV, wyizolowałeś/aś wirusowe RNA z próbek krwi osób zakażonych: dentysty (dwie próbki), pacjentów dentysty oraz innych osób z okolic Florydy niemających kontaktu z dentystą. Sekwencje wirusowego białka gp120, które otrzymałeś/aś znajdują się w pliku  [HIV_data_set.fasta](./data/HIV_data_set.fasta). Przeprowadź analizę filogenetyczną w programie `MEGA`
+W celu ustalenia źródła zakażenia wirusem HIV, wyizolowałeś/aś wirusowe RNA z próbek krwi osób zakażonych: dentysty (dwie próbki), pacjentów dentysty oraz innych osób z okolic Florydy niemających kontaktu z dentystą. Sekwencje wirusowego białka gp120, które otrzymałeś/aś znajdują się w pliku  [HIV_data_set.fasta](../data/HIV_data_set.fasta). Przeprowadź analizę filogenetyczną w programie `MEGA`
 
 
 * Otwórz program MEGA.
