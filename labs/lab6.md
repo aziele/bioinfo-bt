@@ -55,14 +55,12 @@ Które drzewo najodpowiedniej opisuje relację między powyższymi gatunkami.
 
 
 ## Zadanie 6 - Analiza filogenetyczna wirusów HIV i SIV na podstawie białka gp120
-**AIDS (Acquired Immune Deficiency Syndrome)** wywoływany jest poprzez zakażenie jednym z dwóch wirusów: HIV-1 oraz HIV-2. HIV-1 jest odpowiedzialny za globalną pandemię, natomiast HIV-2 jest mniej wirulentny i do niedawna zakres jego występowania ograniczony był jedynie do Afryki Zachodniej. Do pierwszych zakażeń wirusem HIV u człowieka doszło w Afryce najprawdopodobniej między 1910 a 1930 rokiem.
+**AIDS (Acquired Immune Deficiency Syndrome)** jest wywoływany przez wirusy HIV-1 i HIV-2, z których pierwszy odpowiada za globalną pandemię. Spokrewnione wirusy występują również u naczelnych i określane są jako SIV. Białko gp120 odpowiada za wiązanie wirusa z komórkami gospodarza.
 
-Wirusy spokrewnione z HIV znalezione zostały również poza człowiekiem u wielu gatunków naczelnych i zostały nazwane **SIV**. Występujące w cząsteczce wirusa białko **gp120** jest odpowiedzialne za łączenie się wirusa z komórkami gospodarza.
-
-W pliku [gp120.fasta](../data/gp120.fasta) znajduje się przyrównanie sekwencji białka gp120 pochodzące z różnych gatunków naczelnych. Za pomocą narzędzia [simple phylogeny MAB-LIRMM](http://phylogeny.lirmm.fr/phylo_cgi/simple_phylogeny.cgi) utwórz drzewo filogenetyczne. Ukorzeń drzewo korzystając z punktu centralnego (*mid-point rooting*).
+W pliku [gp120.fasta](../data/gp120.fasta) znajduje się przyrównanie sekwencji tego białka z różnych gatunków naczelnych. Korzystając z narzędzia simple phylogeny [MAB-LIRMM](http://phylogeny.lirmm.fr/phylo_cgi/simple_phylogeny.cgi), utwórz drzewo filogenetyczne i ukorzeń je metodą *mid-point rooting*.
 
 Odpowiedz:
-1. Czy wirusy HIV-1 i HIV-2 stanowią jedną grupę, czy raczej stanowią dwie odrębne grupy?
+1. Czy wirusy HIV-1 i HIV-2 stanowią jedną grupę, czy raczej stanowią dwie odrębne grupy na drzewie?
 2. Który wirus naczelnych jest najbardziej spokrewniony z wirusami HIV-1?
 
 
