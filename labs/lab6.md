@@ -92,17 +92,17 @@ W celu ustalenia źródła zakażenia wirusem HIV, wyizolowałeś/aś wirusowe R
 
 
 ## Zadanie 8 - Budowa profilu sekwencji
-W oparciu o poniższe przyrównanie wielu sekwencji utwórz w tabeli profil, który będzie przedstawiał ile razy dany aminokwas występuje w danej pozycji (kolumnie).
+W oparciu o poniższe przyrównanie wielu sekwencji utwórz w tabeli profil, który będzie przedstawiał ile razy dany nukleotyd występuje w danej pozycji (kolumnie).
 
 ```
-ACGVPD  
-ANGVID  
-ACNGPP  
-GCGVII  
-ANWVID  
+ATCGTA  
+ATCGCA  
+TCCTTA  
+CTGATT  
+CTTGTC  
 ```
 
 Odpowiedz:
 
-1. Ile wynosi wartość punktacji dla heksapeptydu `ACGVPD`, jeżeli punktacja jest sumą liczności aminokwasów w odpowiednich kolumnach profilu.
-2. Przyrównanie jakiego, dowolnego heksapeptydu będzie najwyżej punktowane?
+1. Ile wynosi wartość punktacji dla heksameru `AGTATT`, jeżeli punktacja jest sumą liczności aminokwasów w odpowiednich kolumnach profilu.
+2. Przyrównanie jakiego, dowolnego heksameru będzie najwyżej punktowane?
